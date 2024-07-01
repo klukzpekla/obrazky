@@ -1,0 +1,2 @@
+# obrazky
+Veškeré fotky/obrázky.
